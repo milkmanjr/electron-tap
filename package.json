@@ -15,7 +15,7 @@
   "author": "Sherzod Kuchkarov <sherzod@gmail.com> (https://github.com/tundrax)",
   "dependencies": {
     "babel-register": "^6.4.3",
-    "electron-prebuilt": "^0.36.4",
+    "electron-prebuilt": "*",
     "glob": "^6.0.4",
     "glob-watcher": "^2.0.0"
   }
